@@ -5,3 +5,6 @@
 [submodule "geocausal"]
 	path = geocausal
 	url = https://github.com/mmukaigawara/geocausal
+[submodule "leadeR"]
+	path = leadeR
+	url = https://github.com/mmukaigawara/leader
